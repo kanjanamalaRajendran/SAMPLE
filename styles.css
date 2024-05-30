@@ -1,0 +1,95 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main0{
+    /* background-image: img3.jpeg; */
+    /* background-color: beige; */
+    background-color:rgb(1, 31, 49) ;
+    height: 100vh;
+    /* margin: 0;
+    padding: 0; */
+}
+.main1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+.main1,h1{
+    font-size:larger;
+    color: aliceblue;
+}
+.main0.main{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    box-decoration-break: none;
+}
+.main ,li{
+    display: inline-block;
+    list-style: none;
+    padding: 0px 10px;
+    font-size: medium;
+}
+.main,li, a{
+    font-size: medium;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    color: rgb(242, 236, 243);
+    /* padding: 10px; */
+     margin-top: 40px; */
+    /* background-color: blue; */
+}
+.main,li, a:hover{
+    text-decoration: none;
+    color:rgb(166, 163, 167) ;
+    transition: o.5s ease;
+}
+.Log_in_page{
+    border: 2px solid 10px;
+    background-color:rgb(1, 31, 49) ;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.Log_in_page,h1{
+    color: aliceblue;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 250px;
+}
+.sign_in_page{
+    background-color:rgb(1, 31, 49) ;
+    height: 100vh;
+    justify-content: center;
+    align-items: center; 
+}
+.sign_in_page,h1{
+    color: aliceblue;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 250px; 
+}
+.end{
+    background-color:rgb(1, 31, 49) ;
+    height: 100vh;
+    justify-content: center;
+    align-items: center; 
+}
+.end,h1{
+    color: aliceblue;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 250px; 
+}
